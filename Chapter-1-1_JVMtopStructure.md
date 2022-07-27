@@ -1,3 +1,5 @@
+#### JVM 路线
+![image](https://i.bmp.ovh/imgs/2022/07/27/52e8c3349ad81bf8.png)
 #### Jvm 总体结构
 ![image](https://i.bmp.ovh/imgs/2022/07/27/a653e732ed644853.png)
 ##### 类加载机制
